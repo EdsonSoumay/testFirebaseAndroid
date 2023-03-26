@@ -135,7 +135,8 @@ android {
     compileSdkVersion rootProject.ext.compileSdkVersion
 
     defaultConfig {
-        applicationId "com.testfirebaseandroid"
+        // applicationId "com.testfirebaseandroid"
+        applicationId "com.udorm"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
